@@ -8,3 +8,5 @@ Object Detection With OpenCV: Step by Step
 **Image Classification** >> is the process of using an image as your input through your model, and that model detects similarities in the given image, to have an output of your desired class. This will result in and output of your class name and the probability score.
 
 **Object Detection** >> is the process of using an image and or video feed as your input through your model, and that model detects any objects. This can happen with many different object detection methods. This will result in an output of bounding boxes, class name, and probability score.
+
+To understand this flow of object detection we must understand every concept of image recognization and all the training models.
