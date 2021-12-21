@@ -15,7 +15,7 @@
          cv2.imshow("Frame", frame)
          cv2.waitKey(0)
 
-# Cantinous Video Capture
+# Continous Video Capture
 
     import cv2
     import numpy as np
