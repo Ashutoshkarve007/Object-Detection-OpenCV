@@ -1,7 +1,8 @@
 # Object-Detection-OpenCV
-Object Detection With OpenCV: Step by Step
+Object Detection With OpenCV:
 
 >> The purpose for a tool like this is to be able to detect objects in real time using a camera system.  <<
+>> The Main Purpose of this Project is to detect objects for road survillance in wich we will detect cracks on road and other parameters.
 
 **Object Detection vs Image Classification**
 
