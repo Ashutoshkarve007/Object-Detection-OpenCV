@@ -23,6 +23,10 @@ R-CNN object detection with Keras, TensorFlow, and Deep Learning... Follow This 
     4. When creating a bounding box for a new image, run the image through the selective search segmentation, then grab every piece of the picture.
     5. Run each piece of an image through the algorithm, and whenever the algorithm predicts the object you are looking for mark the locations with a bounding box
     6. If multiple bounding boxes are marked, apply Non-Maxima suppression to include only the box with the high confidence/region of interest (this part I am still figuring out… you will see my issue below)
+
+# `Part 1` Turning any CNN image classifier into an object detector with Keras, TensorFlow, and OpenCV
+
+`QUE?`> How to take a pre-trained image classifier and utilize image pyramids, sliding windows, and non-maxima suppression to build a basic object detector (think HOG + Linear SVM-inspired).
     
  
  
